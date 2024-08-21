@@ -1,0 +1,15 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "ctrl+pageup",
+        "command": "editor.action.fontZoomIn"
+    },
+    {
+        "key": "ctrl+pagedown",
+        "command": "editor.action.fontZoomOut"
+    },
+    {
+        "key": "ctrl+shift+alt+y",
+        "command": "python.execInTerminal-icon"
+    }
+]
