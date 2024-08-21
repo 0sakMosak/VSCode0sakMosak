@@ -18,10 +18,16 @@
     top: -6px !important;
 }
 
+
 /* Toolbars when tabs are enabled. */
-.monaco-workbench .part.editor>.content .editor-group-container>.title .editor-actions {
+/* .monaco-workbench .part.editor>.content .editor-group-container>.title .editor-actions {
     display: none !important;
+} */
+.monaco-workbench .part.editor>.content .editor-group-container>.title .editor-actions {
+    border: none;
+    box-shadow: none;
 }
+
 
 /* Side bar */
 .part.sidebar {
